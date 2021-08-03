@@ -3,8 +3,8 @@ let Data = {
   "name": "Christopher Murray",
   "role": "Software Developer",
   "linkedinId":"https://www.linkedin.com/in/christophercmurray/",
-  "twitter": "Christopher_aaS",
-  "roleDescription": "Software developer for Recipe Box and content creator for the popular tech blog Linux Handbook. I specialize in front-end development, but I also have experience with back-end programming, database management, and continuous integration / deployment.",
+  "twitter": "chris_decrypted",
+  "roleDescription": "Full-stack Laravel Developer for Creative 2. When I'm not coding for my day job, I enjoy learning new things and being an advocate for new devs. If you're a student looking for a portfolio review or just want to chat, feel free to reach out. Recruiters: I'm very happily employed and not interested in any new roles. ",
   "socialLinks":[
       {
         "name":"LinkedIn",
@@ -18,13 +18,8 @@ let Data = {
       },
       {
         "name":"Twitter",
-        "url":"http://twitter.com/Christopher_aaS",
+        "url":"http://twitter.com/chris_decrypted",
         "d":"M23.954 4.569a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.691 8.094 4.066 6.13 1.64 3.161a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.061a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.937 4.937 0 004.604 3.417 9.868 9.868 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63a9.936 9.936 0 002.46-2.548l-.047-.02z"
-      },
-      {
-        "name":"Google Drive Resume",
-        "url":"https://drive.google.com/file/d/1a1lfk70F6lYm3ohBhexyVIOCxdhlwozE/view",
-        "d":"M4.433 22.396l4-6.929H24l-4 6.929H4.433zm3.566-6.929l-3.998 6.929L0 15.467 7.785 1.98l3.999 6.931-3.785 6.556zm15.784-.375h-7.999L7.999 1.605h8.002l7.785 13.486h-.003z"
       }
     ],
   "portfolio":[
@@ -68,7 +63,7 @@ let Data = {
       "name":"Jam Stack Demo",
       "description":"Introduction to the JamStack",
       "imgUrl":"images/portfolio/jamstack-demo.png",
-      "imgAlt":"Screenshot of Angular Crash Course",
+      "imgAlt":"Screenshot of Jamstack Demo",
       "demoUrl":"https://jamstack-demo-fem.netlify.app/",
       "sourceUrl":"https://github.com/cmurray21/jamstack-demo"
 
